@@ -1,0 +1,35 @@
+/* Essentials */
+
+body {
+	background: #F9FCFC;
+	color: #666666;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+
+p {
+	line-height: 150%;
+}
+
+.header {
+	height: 70px;
+	background-color: #aaaaaa;
+}
+
+.logo {
+	line-height: 70px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+.darkRed {
+	background-color: #b53f43;
+}
+
+.lightRed {
+	background-color: #FDAAAC;
+}
+
+.height {
+	height: 500px;
+}
