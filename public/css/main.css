@@ -2220,7 +2220,7 @@ ul.icons {
 body {
   padding-top: 3.25rem; }
   body:before {
-    content: ' ';
+    content: '';
     background-image: url(../../public/images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -2233,6 +2233,10 @@ body {
     height: 100%;
     z-index: -1;
     opacity: 0.05; }
+
+.logo {
+  width: 100px;
+}
 
 #header {
   -moz-align-items: center;
